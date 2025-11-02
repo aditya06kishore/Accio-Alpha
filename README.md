@@ -21,7 +21,7 @@ NumPy (Numerical Python) is a fundamental library for linear algebra in Python. 
 - [NumPy W3Schools Tutorial](https://www.w3schools.com/python/numpy/default.asp)
 - [NumPy Video Tutorial](https://youtu.be/QUT1VHiLmmI?feature=shared)
 
-## Matplotlib
+## Matplotlib Basics
 
 Matplotlib is Python's essential plotting library, widely used for data visualization. It supports various types of plots and is the foundation for other visualization packages like pandas and Seaborn. Get familiar with Matplotlib through these resources:
 
@@ -29,7 +29,7 @@ Matplotlib is Python's essential plotting library, widely used for data visualiz
 - [Matplotlib Documentation](https://matplotlib.org/)
 - [Matplotlib Video Tutorial](https://youtu.be/OZOOLe2imFo?feature=shared)
 
-## Pandas
+## Pandas Basics
 
 Pandas is a Python library used for working with datasets. It is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool. Pandas has data structures for data analysis. The most commonly used data structures are Series and DataFrame. Series is one-dimensional. It consists of one column. DataFrame is two dimensional. It consists of rows and columns. For basic introduction use the following guide:                                                                                   - [Pandas Documentation](https://pandas.pydata.org/)                                                                   
 - [W3Schools Pandas Tutorial](https://www.w3schools.com/python/pandas/default.asp)
